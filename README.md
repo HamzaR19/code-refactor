@@ -43,13 +43,16 @@ WHEN I view the heading attributes
 THEN they fall in sequential order
 WHEN I view the title element
 THEN I find a concise, descriptive title
+```
 ## Installation
 
-.
+N/a
 
 ## Usage Information
 
-Enjoy the webpage
+![Screenshot_20230728_031508_Chrome](https://github.com/HamzaR19/code-refactor/assets/132932060/3773772e-57b8-4254-b612-4368dbd537b1)
+Enjoy the website
+[Click here for Link](https://hamzar19.github.io/code-refactor)
 
 ## Contribution Guidelines
 
