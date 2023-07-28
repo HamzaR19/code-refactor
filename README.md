@@ -21,7 +21,7 @@ Hamza Rahman's README
  * [Questions](#questions)
 
 ## Description
-
+As a Web-Development student I was tasked to accomplish the following.
 
 ```
 AS A marketing agency
@@ -29,7 +29,7 @@ I WANT a codebase that follows accessibility standards
 SO THAT our own site is optimized for search engines
 ```
 
-## Acceptance Criteria
+
 
 ```
 GIVEN a webpage meets accessibility standards
@@ -49,7 +49,7 @@ THEN I find a concise, descriptive title
 
 ## Usage Information
 
-Just to see
+Enjoy the webpage
 
 ## Contribution Guidelines
 
